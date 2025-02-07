@@ -5,7 +5,7 @@ I'm Cheryl. My involvement in computer science stretches waaaaaaay way back, but
 ⚡ Fun facts:
 - 😄 Pronouns --> gender non-conforming || choose your own adventure
 - 🔭 I’m currently working on the final stretch of my Bachelor of Science in Computer Science degree
-- 🌱 I’m currently learning Project Management in Software Development, where I'm furthering my knowledge and practice of Agile methodologies.
+- 🌱 I’m currently learning about Software Design + Implementation, and Cloud Computing.
 - 💬 I am a career changer and all of my college experiences have been as a nontraditional student. I am happy to be an information resource for others with a similar background who are just starting their journey.
 
 <!--
