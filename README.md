@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cheryl. My involvement in computer science started in high school. Then, computer programming was a big part of the curriculum on my path to my first (non CS) degree. I started *really* learning coding languages as a hobby in 2019, which sparked my curiosity about tech as a career. A serendipitous opportunity at North Seattle College led me back to school in 2022 for an immersive CS education, which culminated in my second bachelor degree (Computer Science, BS) in June 2025. With a history of diverse experiences, I'm excited to apply my knowledge and skills to the next chapter of my professional life.
+I'm Cheryl. My involvement in computer science started in high school. Computer programming became a big part of the curriculum on my path to my first (non-CS) degree. I started *really* learning coding languages as a hobby in 2019, which sparked my curiosity about tech as a career. A serendipitous opportunity at North Seattle College led me back to school in 2022 for an immersive CS education, which culminated in my second bachelor degree (Computer Science, BS) in June 2025. With a history of diverse experiences, I'm excited to apply my knowledge and skills to the next chapter of my professional life.
 
 ⚡ Fun facts:
 - 😄 Pronouns --> gender non-conforming || choose your own adventure
