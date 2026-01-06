@@ -1,11 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Cheryl 👋
+## Software Engineer & Architect | CS Teaching Assistant
 
-I'm Cheryl. My involvement in computer science started in high school. Computer programming became a big part of the curriculum on my path to my first (non-CS) degree. I started *really* learning coding languages as a hobby in 2019, which sparked my interest in tech as a career. A serendipitous opportunity at North Seattle College led me back to school in 2022 for an immersive CS education, which culminated in my second bachelor degree (Computer Science, BS) in June 2025. With a history of diverse experiences, I'm excited to apply my knowledge and skills to the next chapter of my professional life.
+I specialize in designing and deploying purposeful digital solutions. My work spans from commissioned niche applications to collaborative social-impact tools. I don't just write code; I build systems that solve specific human problems. Whether I'm helping students debug their first algorithms or architecting custom lighting solutions, I focus on clarity, scalability, and impact.
 
-⚡ Fun facts:
-- 😄 Pronouns --> gender non-conforming || choose your own adventure
-- 🌱 I’m currently seeking new grad opportunities in CS, especially roles in Software Engineering
-- 💬 I am a career changer and both of my degree paths have been as a "nontraditional" student. I am happy to be an information resource and a cheerleader for others with a similar background who are just starting their journey.
+---
+
+### 🛠️ Active Engagements
+
+* **Environmental Lighting** (Commissioned)
+  * Architecting a specialized control interface for tabletop gaming atmospheres. 
+  * *Focus:* Low-latency performance and intuitive UX for the tabletop gaming community.
+* **ADA Housing Finder**
+  * Leading technical collaboration on a web application designed to bridge the accessibility gap in housing.
+* **Personal Website / Portfolio**
+  * Re-engineering my personal site to demonstrate the migration of legacy static architectures to modern dynamic systems.
+
+---
+
+### 🎓 Mentorship & Mastery
+
+As a **Computer Science Teaching Assistant**, I mentor developers in mastering complex logic and architectural patterns.
+
+* **Current Focus:** Algorithmic analysis, cloud computing, software architecture, and design patterns. 
+* **Impact:** This role keeps my fundamentals sharp through weekly sessions breaking down data structures and auditing code, ensuring my own architectural decisions are rooted in industry best practices.
 
 <!--
 **moserc/moserc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
