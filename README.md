@@ -1,7 +1,7 @@
-# Hi there, I'm Cheryl 👋
+# Hello, I'm Cheryl
 ## Software Engineer & Architect | CS Teaching Assistant
 
-I specialize in designing and deploying purposeful digital solutions. My work spans from commissioned niche applications to collaborative social-impact tools. I don't just write code; I build systems that solve specific human problems. Whether I'm helping students debug their first algorithms or architecting custom lighting solutions, I focus on clarity, scalability, and impact.
+I design and deploy purposeful digital solutions. My work spans from commissioned niche applications to collaborative social-impact tools. I don't just write code; I build systems that solve specific human problems. Whether I'm helping students debug their first algorithms or architecting custom lighting solutions, I focus on clarity, scalability, and impact.
 
 ---
 
