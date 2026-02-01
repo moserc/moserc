@@ -1,7 +1,7 @@
 # Hello, I'm Cheryl
 ## Software Engineer & Architect | CS Teaching Assistant
 
-I design and deploy purposeful digital solutions. My work spans from commissioned niche applications to collaborative social-impact tools. I don't just write code; I build systems that solve specific human problems. Whether I'm helping students debug their first algorithms or architecting custom lighting solutions, I focus on clarity, scalability, and impact.
+Software Engineer with a multidisciplinary professional background and driven by a fundamental approach to problem-solving and systems design. Highly adaptable and tech-agnostic, with a proven ability to master new languages, frameworks, and environments rapidly to meet project needs. Known for bringing professional maturity, a strong sense of ownership, and a focus on building efficient, maintainable solutions.
 
 ---
 
