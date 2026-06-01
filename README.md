@@ -1,23 +1,23 @@
 # Hello, I'm Cheryl
-**Software Engineer | CS Teaching Assistant**
+**Software Engineer | Full-Stack Systems | Former Small Business Founder | Seattle ⇄ Denver**
 
-Software Engineer with a multidisciplinary professional background and driven by a fundamental approach to problem-solving and systems design. Highly adaptable and tech-agnostic, with a proven ability to master new languages, frameworks, and environments rapidly to meet project needs. Known for bringing professional maturity, a strong sense of ownership, and a focus on building efficient, maintainable solutions.
+I am a software engineer with a multidisciplinary professional background, driven by a fundamental approach to problem-solving and system design. Highly adaptable and tech-agnostic, I focus on building efficient, secure, and maintainable solutions that respect both technical and operational constraints.
 
-## Active Engagements
+Before pivoting fully into computer science, I spent over seven years operating an independent architectural visualization sole proprietorship. That chapter trained me to do three things exceptionally well: translate ambiguous client requirements into precise technical specifications, manage complex asset pipelines, and systematically debug structural design conflicts before they hit the execution phase. I have a first-hand understanding of client management, project scoping, and business logic; I don't just write code, I build software that solves real-world organizational and human problems.
 
-### 💡 Environmental Lighting
-  * Architecting a specialized control interface for tabletop gaming atmospheres. 
-  * *Focus:* Low-latency performance and intuitive UX for the tabletop gaming community.
+**🛠️ ACTIVE ENGAGEMENTS:**
 
-<!-- ### 🏠 ADA Housing Finder
-  * Leading technical collaboration on a web application designed to bridge the accessibility gap in housing. -->
+• ***Environmental Lighting Ecosystem (Commissioned IoT):*** Prototyping a custom hardware-software control interface linking web UI states to physical microcontrollers for the tabletop gaming community. Engineering focus: Evaluating low-latency communication protocols (MQTT) and resilient hardware state synchronization with an intuitive real-time UX.
 
-### 🌐 Personal Website | Portfolio | Cast Study
-  * Re-engineering my personal site to demonstrate the migration of legacy static architectures to modern dynamic systems.
- 
-### 🎓 Mentorship & Mastery | *Computer Science Teaching Assistant*
-  * *Focus:* Mentor junior and senior level students in mastering computer science fundamentals. Lead mock technical interviews.
-  * *Impact:* This role keeps my fundamentals sharp through weekly sessions breaking down data structures and auditing code, ensuring my own architectural decisions are rooted in industry best practices.
+• ***ADA Housing Finder (Civic Tech / Geospatial):*** Designing a centralized full-stack marketplace aimed at reducing the friction people face when searching for verified accessible housing. Engineering focus: Aggregating fragmented property data, designing secure multi-role database schemas (seekers, landlords, agencies), and mapping spatial data relationships for localized search.
+
+• ***Legacy Migration Showcase (Full-Stack Architecture):*** Architecting the end-to-end modernization of my digital presence, mapping the migration path from static legacy frameworks to a decoupled, fully automated dynamic deployment pipeline.
+
+**🎓 MENTORSHIP and MASTERY:**
+
+As a Computer Science Teaching Assistant, I mentor emerging developers in complex logic and architectural patterns. My focus covers algorithmic analysis, cloud computing, software architecture, design patterns, and secure software development. This role keeps my fundamentals sharp through weekly sessions breaking down data structures and auditing code, ensuring my own design decisions are rooted in industry best practices.
+
+*Relocating to the Denver-Boulder metro area in mid-2026. Actively seeking collaborative roles where I can drive meaningful social, environmental, or community impact. Open to opportunities in both Colorado and my home roots of Seattle.*
 
 <!--
 **moserc/moserc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
