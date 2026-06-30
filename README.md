@@ -1,5 +1,5 @@
 # Hello, I'm Cheryl
-**Software Engineer | Full-Stack Systems | Former Small Business Founder | Seattle ⇄ Denver**
+**Software Engineer | Human-Centered Systems Builder | Former Small Business Founder | Seattle ⇄ Denver**
 
 I am a software engineer with a multidisciplinary professional background, driven by a fundamental approach to problem-solving and system design. Highly adaptable and tech-agnostic, I focus on building efficient, secure, and maintainable solutions that respect both technical and operational constraints.
 
@@ -13,11 +13,7 @@ Before pivoting fully into computer science, I spent over seven years operating 
 
 • ***Legacy Migration Showcase (Full-Stack Architecture):*** Architecting the end-to-end modernization of my digital presence, mapping the migration path from static legacy frameworks to a decoupled, fully automated dynamic deployment pipeline.
 
-**🎓 MENTORSHIP and MASTERY:**
-
-As a Computer Science Teaching Assistant, I mentor emerging developers in complex logic and architectural patterns. My focus covers algorithmic analysis, cloud computing, software architecture, design patterns, and secure software development. This role keeps my fundamentals sharp through weekly sessions breaking down data structures and auditing code, ensuring my own design decisions are rooted in industry best practices.
-
-*Relocating to the Denver-Boulder metro area in mid-2026. Actively seeking collaborative roles where I can drive meaningful social, environmental, or community impact. Open to opportunities in both Colorado and my home roots of Seattle.*
+Currently based in the Denver-Boulder metro area, I am actively pursuing software engineering opportunities here in Colorado as well as in the Seattle Metro Area. I am fully open to local, hybrid, or remote roles in either region and am excited to connect with engineering teams, civic hackers, and innovators in the Green Tech, Climate Tech, Civic Tech, and Social Impact spaces.
 
 <!--
 **moserc/moserc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
