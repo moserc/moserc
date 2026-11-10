@@ -1,8 +1,8 @@
 # Hello, I'm Cheryl
 
-I am a technology professional focused on building practical, reliable, and accessible solutions to complex problems. I take an adaptable, technology-agnostic approach and enjoy learning new tools to meet the needs of the product and team. I bring a seasoned professional's perspective along with hands-on experience in software engineering, project coordination & management, technical documentation, and user support. I added a B.S. in Computer Science to my toolkit in 2025, and am enthusiastic about the next chapter of my career. I'm looking for an awesome team at a great company working to put more good into the world.
+I am a technology professional focused on building practical, reliable, and accessible solutions to complex problems. I take an adaptable, technology-agnostic approach and enjoy learning new tools to meet the needs of the product and team.
 
-If your team is looking for a versatile, entry-level software engineer who is professional, intellectually curious, and uniquely cross-functional, please reach out, I'd love to chat!
+I bring a seasoned professional's perspective along with hands-on experience in software engineering, project coordination & management, technical documentation, and user support. I added a B.S. in Computer Science to my toolkit in 2025, and am enthusiastic about the next chapter of my career. I'm looking for an awesome team at a great company working to put more good into the world. If you're looking for a software engineer who is versatile, intellectually curious, and uniquely cross-functional, please reach out - I'd love to connect!
 
 ---
 
